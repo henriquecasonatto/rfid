@@ -1,3 +1,4 @@
 # rfid
 rfid-arduino
-este 'e somente um teste
+sistema de trava rfid usando o arduino uno
+e um modulo rfid serial de 125khz
